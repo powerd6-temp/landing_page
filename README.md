@@ -1,6 +1,6 @@
-# powerd6/template_website
+# powerd6/landing_page
 
-A website, with testing and configuration pre-made.
+The landing page for the project.
 
 ## Development setup
 
