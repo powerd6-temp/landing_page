@@ -21,7 +21,7 @@ After getting this repository, you can run the following commands:
 
 This project follows the continuous delivery definition shared on [minimumcd.org](https://minimumcd.org/minimumcd/).
 
-[![Continuous Delivery](https://github.com/powerd6/template_website/actions/workflows/cd.yml/badge.svg?branch=main&event=push)](https://github.com/powerd6/template_website/actions/workflows/cd.yml)
+[![Continuous Delivery](https://github.com/powerd6/landing_page/actions/workflows/cd.yml/badge.svg?branch=main&event=push)](https://github.com/powerd6/landing_page/actions/workflows/cd.yml)
 
 This means that:
 - All pull requests are built and tested;
