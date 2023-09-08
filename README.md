@@ -34,6 +34,7 @@ This website is built with the following technologies:
 
 - [Astro](https://astro.build/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
 - [Vitest](https://vitest.dev/)
 - [Playwright](https://playwright.dev/)
   - [`expect-axe-playwright`](https://github.com/Widen/expect-axe-playwright)
